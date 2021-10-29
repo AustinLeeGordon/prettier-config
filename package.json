@@ -1,0 +1,26 @@
+{
+  "name": "@austinleegordon/prettier-config",
+  "version": "1.0.0",
+  "description": "Personal Prettier config",
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": "^2.4.0"
+  },
+  "keywords": [
+    "prettier",
+    "prettierrc"
+  ],
+  "author": {
+    "name": "Austin Gordon",
+    "email": "gordon.austin2@gmail.com",
+    "url": "https://github.com/AustinLeeGordon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AustinLeeGordon/prettier-config"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
